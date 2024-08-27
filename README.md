@@ -1,2 +1,4 @@
 # UFDs
 Mock Catalogue for UFDs 
+
+The aim is to create a groundbreaking library of simulated data to reproduce the variety of UDFs already observed around the Milky Way and for which the new technologies will provide plenty of new data. I will create a first-of-its-kind “mock catalogue” for UFDs that will provide the chemical abundances (from C to Zn) of all the stars predicted to dwell in different dwarf galaxies at redshift z = 0. I will produce the catalogue by varying the PopIII IMF along with the explosion energy of PopIII SNe, offering unprece-dented insights. The main goal of the mock catalogue is to provide the properties of the simulated UFD ‘as observed’: for any of the above instruments I will simulate the Color Magnitude Diagram (CMD) and I will derive the properties of UFDs based on the instrument’s performance (magnitude limit, field-of-view). 
